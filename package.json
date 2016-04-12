@@ -1,6 +1,6 @@
 {
   "name": "tweet-splitter",
-  "author": "Invertase",
+  "author": "TeamFA",
   "version": "1.0.0",
   "description": "Split a string into 140 unicode character chunks to meet twitter message size limits - also handles Twitters URL shortening.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/invertase/tweet-splitter"
+    "url": "https://github.com/teamfa/tweet-splitter"
   },
   "dependencies": {
     "twitter-text": "^1.13.2"
