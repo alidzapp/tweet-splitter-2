@@ -1,6 +1,6 @@
 # Tweet Splitter
 
-A library which takes a string, and breaks it down into multiple tweets for you to send.
+A library which takes a string, and breaks it down into multiple tweets for you to send, as an array.
 
 > npm i --save tweet-splitter
 
